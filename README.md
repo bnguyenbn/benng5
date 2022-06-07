@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benng5
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source project
 - 📫 How to reach me nghiaben7@gmail.com
 
 <!---
